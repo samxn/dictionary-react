@@ -10,7 +10,11 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <a href="https://github.com/samxn/dictionary-react" target="_blank">
+          <a
+            href="https://github.com/samxn/dictionary-react"
+            rel="noreferrer"
+            target="_blank"
+          >
             Open-source code
           </a>{" "}
           by Samin Dizna
