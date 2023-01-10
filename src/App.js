@@ -9,7 +9,12 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer">Coded by Samin</footer>
+        <footer className="App-footer">
+          <a href="https://github.com/samxn/dictionary-react" target="_blank">
+            Open-source code
+          </a>{" "}
+          by Samin Dizna
+        </footer>
       </div>
     </div>
   );
