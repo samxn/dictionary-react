@@ -2,3 +2,15 @@
   text-align: center;
   margin: 30px 0;
 }
+.Phonetic a {
+  color: rgb(255, 165, 61);
+  border: 1px solid #ddd;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out;
+}
+.Phonetic a:hover {
+  background: rgb(255, 165, 61);
+  color: white;
+}
